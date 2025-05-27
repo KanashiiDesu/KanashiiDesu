@@ -3,15 +3,9 @@
 </p>
 
 <h1 align="center">Olá! Sou Thalis Gomes</h1>
-<h3 align="center">Operador Logístico | Especialista em Automação | Apaixonado por Dados e Eficiência</h3>
+<h3 align="center">Operador Logístico | Gosto de Automação | Apaixonado por Dados e Eficiência</h3>
 
 <p align="center">
-  <a href="https://github.com/KanashiiDesu">
-    <img src="https://komarev.com/ghpvc/?KanashiiDesu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/thalisgomes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -27,21 +21,10 @@ Acredito que, assim como na música, a **harmonia** nos processos é a chave par
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?KanashiiDesu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?KanashiiDesu&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
 ### 🛠️ Minhas Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tidal-%23DCDCDC?logo=tidal&logoColor=%23292421" />
 </p>
 
 ---
@@ -49,5 +32,5 @@ Acredito que, assim como na música, a **harmonia** nos processos é a chave par
 ### ✨ Meus Projetos em Destaque
 
 <p align="center">
-  <em>Em breve, projetos sobre automação de planilhas e análise de dados logísticos!</em>
+  <em>Em breve</em>
 </p>
