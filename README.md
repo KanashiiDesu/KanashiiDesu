@@ -15,7 +15,7 @@
 
 ### Sobre Mim
 
-Sou um profissional de **Logística** com a missão de transformar dados em decisões inteligentes. Com uma xícara de café na mão e o **Excel** como meu principal aliado, desenvolvo **automações** e dashboards que otimizam processos, reduzem custos e aumentam a eficiência da cadeia de suprimentos.
+Sou um profissional de **Logística** com a missão de transformar dados em decisões inteligentes. Desenvolvo **automações** que otimizam processos, reduzem custos e aumentam a eficiência da cadeia de suprimentos.
 
 Acredito que, assim como na música, a **harmonia** nos processos é a chave para um resultado excepcional.
 
