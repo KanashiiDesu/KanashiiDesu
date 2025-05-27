@@ -2,17 +2,17 @@
   <img src="https://i.pinimg.com/originals/c1/9a/10/c19a105f257a41335b3e94523737b52d.gif" width="800px" />
 </p>
 
-<h1 align="center">Olá! Sou [Seu Nome Completo]</h1>
+<h1 align="center">Olá! Sou Thalis Gomes</h1>
 <h3 align="center">Operador Logístico | Especialista em Automação | Apaixonado por Dados e Eficiência</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/KanashiiDesu">
+    <img src="https://komarev.com/ghpvc/?KanashiiDesu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="mailto:seu-email@exemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-usuario-linkedin">
+  <a href="https://linkedin.com/in/thalisgomes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -30,8 +30,8 @@ Acredito que, assim como na música, a **harmonia** nos processos é a chave par
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?KanashiiDesu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?KanashiiDesu&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
@@ -40,10 +40,8 @@ Acredito que, assim como na música, a **harmonia** nos processos é a chave par
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-005792?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tidal-%23DCDCDC?logo=tidal&logoColor=%23292421" />
 </p>
 
 ---
